@@ -1,6 +1,8 @@
 # GEN + FLAG + node2vec
 This is an improvement of the  [GEN (DeepGCNLayer)](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/ogbn_proteins_deepgcn.py)  model, using the FLAG method and node2vec embedding. 
 
+Our paper is available at [https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.org/pdf/2105.08330.pdf).
+
 ### ogbn-products
 
 + Check out the model： [GEN (DeepGCNLayer)](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/ogbn_proteins_deepgcn.py)
